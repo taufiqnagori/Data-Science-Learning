@@ -1,3 +1,4 @@
+#2
 # Creating Variable
 x = 5           # here 'x' is Variable (Integer)
 y = "taufiq"    # here 'y' is Variable (String)
